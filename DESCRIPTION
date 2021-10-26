@@ -1,0 +1,10 @@
+Package: mtemplates
+Type: Package
+Title: "R Markdown Custom Templates"
+Version: 1.0.0
+Author: Mahesh Jindal
+Maintainer: Mahesh Jindal<mj3038@columbia.edu>
+Description: The default Templates for R MarkDown.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true

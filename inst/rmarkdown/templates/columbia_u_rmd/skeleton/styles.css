@@ -1,0 +1,15 @@
+.fixed-header{
+}
+
+.fixed-header{
+    top: 0;
+    width: 100%;
+    background: rgba(8,73,163,0.8);
+    padding: 10px 30px;
+    color: #fff;
+}
+.header-container{
+    width: 80%;
+    font-weight: 700;
+    margin: 0 auto; /* Center the DIV horizontally */
+}

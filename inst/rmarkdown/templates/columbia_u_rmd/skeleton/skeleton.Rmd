@@ -1,0 +1,46 @@
+---
+title: "<Assignment Title>"
+author: "<Student Name>"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+uni: "<Columbia UNI>"
+subject: "<Subject>"
+output:
+  html_document:
+    toc: true
+    fig_caption: true
+    theme: flatly
+    css: styles.css
+    template: template.html
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
+```
+
+```{r}
+#Import Packages
+```
+
+### Question 1
+[<> Points]
+<Question Body>
+```{r 1}
+#Solution 1
+print("Answer 1")
+```
+### Question 2
+[<> Points]
+<Question Body>
+```{r 2}
+#Solution 2
+print("Answer 2")
+```
+
+### Question 3
+[<> Points]
+<Question Body>
+```{r 3}
+#Solution 3
+print("Answer 3")
+```
+
